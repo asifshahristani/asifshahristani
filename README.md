@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @asifshahristani
-- 👀 I’m interested in web development and AI
+- 👀 I’m interested in web development, mobile app development and AI
 - 🌱 I’m currently learning nestjs and nextjs
 
 <!---
